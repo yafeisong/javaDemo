@@ -15,6 +15,7 @@ public class A {
 		Set<String> areas = new HashSet<String>();
 		areas.add("江苏");
 		areas.add("江苏");
+		areas.add("江苏");
 		areas.add("南京");
 		areas.add("苏州");
 		areas.add("无锡");
