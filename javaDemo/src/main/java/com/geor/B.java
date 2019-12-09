@@ -25,6 +25,7 @@ public class B {
 		
 		for(String s:coms){
 			System.out.println(s);
+			System.out.println(s);
 		}
 		
 	}
